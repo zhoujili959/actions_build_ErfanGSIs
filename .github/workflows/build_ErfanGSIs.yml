@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/M1816/7.1.2.2/cn/20200113115311/7670819e/update.zip
-  ROM_NAME: Flyme
+  ROM_URL: https://coloroswebsitefs.coloros.com/coloroswebsite-coloros-com/grs_20200902092910/PCDM00_11_OTA_0340_all_YF5Pa99v4IYs.ozip
+  ROM_NAME: Generic
   TZ: Asia/Shanghai
 
 jobs:
